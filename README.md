@@ -10,4 +10,5 @@ Requirements filled:
 
 output: Parking availability, vehicle status, and parking fee.
 
-MADE BY : ARNAV RAWAT(defining variables and building interface)                                                                                                PIYUSH THAPA(Vehicle exit and fee caclulation)                                                                                                                  AKSHAT JAIN(menu control and end of the program)
+MADE BY : 
+ARNAV RAWAT(defining variables and building interface)                                                                                                           PIYUSH THAPA(Vehicle exit and fee caclulation)                                                                                                                  AKSHAT JAIN(menu control and end of the program)
