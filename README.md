@@ -11,8 +11,8 @@ Requirements fulfilled:
 Output: Parking availability, vehicle status, and parking fee.
 
 MADE BY : 
-ARNAV RAWAT(defining variables and building interface)
+ARNAV RAWAT (defining variables and building interface)
 
-PIYUSH THAPA(Vehicle exit and fee calculation) 
+PIYUSH THAPA (Vehicle exit and fee calculation) 
 
-AKSHAT JAIN(menu control and end of the program)
+AKSHAT JAIN (menu control and end of the program)
